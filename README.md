@@ -14,3 +14,6 @@ Automated Infrastructure Lab on RHEL 9.7 using Ansible. Includes setup scripts f
 1. **Control Node Setup:** Installed RHEL 9.7 with minimal configuration and administrative user setup.
 2. **Infrastructure-as-Code (IaC) Ready:** Prepared environment for Ansible automation by synchronizing SSH keys across all nodes.
 3. **Efficiency:** Leveraged VMware Snapshot and Linked Clone features for rapid testing environment restoration.
+
+Disclaimer:
+This content is for educational purposes only. The scenarios demonstrated are simulated lab exercises designed to practice Ansible skills. This is NOT a leak of official Red Hat exam materials. I encourage all learners to support Red Hat by purchasing official training and attempting the exam through legitimate channels.
